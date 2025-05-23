@@ -58,7 +58,7 @@ a {
 
 /* Cabeçalho */
 header {
-    background: linear-gradient(135deg, #ff00d0, #ae00ff);
+    background: linear-gradient(135deg, #ff00f2, #c300ff);
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 2rem 0;
@@ -70,7 +70,7 @@ header {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid rgb(255, 0, 221);
+    border: 5px solid rgb(247, 0, 255);
     margin-bottom: 1rem;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
 }
@@ -156,7 +156,7 @@ section h2::after {
     
     .project-card {
 
-    background: rgb(255, 0, 238);
+    background: rgb(255, 255, 255);
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
